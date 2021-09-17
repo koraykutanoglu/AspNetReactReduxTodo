@@ -1,36 +1,9 @@
-# AspNetReactReduxTodo
-Hello world app on the following stack:
+# Nedir?
 
-- Back-end
-  - ASP.NET Core Web API
-  - Entity Framework Core
-  - Microsoft SQL Server
-  - Open API (Swashbuckle)
-- Front-end
-  - React
-  - React-Redux
-  - Redux-Saga
-  - Bootstrap
+Bu kodlar sonarqube üzerinde analiz için kullanılmak üzere bu repo üzerinde tutulmaktadır.
 
-### Usage
-To run this application in development environment, you should run front-end and back-end projects separately:
+## Sonarqube Üzerinde Analiz için örnek uygulama olarak bu kodları kullanmak
 
-- Back-end:
-```
-dotnet run
-```
-will be availiable on `http://localhost:5000/api/[actionName]` and `http://localhost:5000/swagger`
-
-- Front-end:
-```
-npm install
-npm start
-```
-will be availiable on `http://localhost:3000/`
-
-# Sonarqube Üzerinde Analiz için örnek uygulama olarak bu kodları kullanmak
-
-
-[Buradan](https://wiki.secops.com.tr/tr/genel/sonarqube-asp-net-analizi)dökümanı okuyabilirsiniz.
+[Buradan](https://wiki.secops.com.tr/tr/genel/sonarqube-asp-net-analizi) dökümanı okuyabilirsiniz.
 
 
