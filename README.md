@@ -27,3 +27,7 @@ npm install
 npm start
 ```
 will be availiable on `http://localhost:3000/`
+
+# Sonarqube Üzerinde Analiz
+
+
