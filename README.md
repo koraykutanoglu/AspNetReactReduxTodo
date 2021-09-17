@@ -28,6 +28,9 @@ npm start
 ```
 will be availiable on `http://localhost:3000/`
 
-# Sonarqube Üzerinde Analiz
+# Sonarqube Üzerinde Analiz için örnek uygulama olarak bu kodları kullanmak
+
+
+[Buradan](https://wiki.secops.com.tr/tr/genel/sonarqube-asp-net-analizi)dökümanı okuyabilirsiniz.
 
 
